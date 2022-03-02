@@ -4,7 +4,7 @@
     <img width ='400px' src='https://logodownload.org/wp-content/uploads/2016/09/spotify-logo-0-1536x1536.png'>
 </div>
   
-###  <b> Descrição: </b> Esse projeto tem como intuito em fazer a tela de login do spotify. Esse projeto é para demonstrar o conhecimento em desenvolvimento de layout com HTML e CSS e responsividade. 
+###  <b> Descrição: </b> Esse projeto tem como intuito em fazer a tela de login do spotify que tem como base esse tela(<a href="https://accounts.spotify.com/pt-BR/login">Clique Aqui</a>). Esse projeto é para demonstrar o conhecimento em desenvolvimento de layout com HTML e CSS e responsividade. 
 
 ### Tecnologias usadas
 
