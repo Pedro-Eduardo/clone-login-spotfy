@@ -1,0 +1,39 @@
+
+#sub-container{
+    margin-top: 40px;
+}
+#sub-container button{
+    width: 442px;
+    height: 46px;
+    border: 1px solid rgb(36, 34, 34);
+    border-radius: 50px;
+    font-weight: bold;
+}
+#sub-container button table{
+    margin: auto;  /*centralizar tabela*/
+}
+#sub-container .facebook{
+    background-color: #3b5998;
+    color:  #ffffff;
+    display: block;
+}
+#sub-container .apple{
+    background-color: #191919;
+    color: #ffffff;
+}
+#sub-container .apple p span{
+    margin-left: 120x;
+}
+#sub-container .google{
+    background-color: #ffffff;
+    color:  #8c8c8c;
+}
+#sub-container .google img{
+    width: 25px;
+    height: 25px;
+}
+#sub-container .fone{
+    background-color: #ffffff;
+    color:  #8c8c8c;;
+}
+
