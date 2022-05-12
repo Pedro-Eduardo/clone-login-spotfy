@@ -15,7 +15,7 @@
 
 ### Manual
 
-* Acesso do projeto através desse link: <a href="https://www.pedroeduardo.com.br/projetos/spotify">Clone Spotify</a>
+* Acesso do projeto através desse link: <a href="https://www.projetos.pedroeduardo.com.br/projetos/spotify/">Clone Spotify</a>
 * Ou clonando e clicando no arquivo index do diretorio principal.
 
 ### Funcionalidades
