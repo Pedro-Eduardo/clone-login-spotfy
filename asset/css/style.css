@@ -116,8 +116,20 @@ form h1{
 .form-login div a:hover{
     text-decoration: underline;
 }
-.campo-texto::-webkit-input-placeholder{
+.campo-texto::-webkit-input-placeholder{ /*Placeholder modificando propriedades dos textos internos*/
     padding-left: 15px;
     font-family: Arial;
     font-size: 15px;
+}
+.form-login .bt-check td{
+    width: 100%;
+    padding-bottom: 15px;
+}
+.form-login .bt-check button{
+    width: 130px;
+    height: 40px;
+    background-color: #1ed760;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
 }
